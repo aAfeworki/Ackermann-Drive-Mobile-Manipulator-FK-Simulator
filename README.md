@@ -1,14 +1,22 @@
 # Ackermann-Drive-Mobile-Manipulator-FK-Simulator
+
+
 Interactive Python-based simulator for a ackermann drive mobile manipulator, focusing on forward kinematics with slider control for both the mobile base and the manipulator arm.
 
 Ackermann-Drive-Mobile-Manipulator-FK-Simulator
+
+
 Interactive Python-based simulator for a ackermann drive mobile manipulator, focusing on forward kinematics with slider control for both the mobile base and the manipulator arm.
 This repository provides an interactive simulator for a mobile manipulator system, implemented in Python using numpy, and matplotlib.
 It demonstrates forward kinematics of a combined system (mobile base + robotic arm), making it a valuable tool for exploring coordinated motion and kinematic behavior.
 
 
 🚀 Features
+
+
 Forward Kinematics (Mobile Base + Arm Control)
+
+
 Control the robot’s base motion (linear and angular movement) along with the manipulator joint angles using sliders to visualize the full system configuration in real time.
 
 
@@ -16,6 +24,8 @@ Control the robot’s base motion (linear and angular movement) along with the m
 
 
 🎯 Applications
+
+
 Educational tool for understanding mobile manipulator kinematics
 Useful for robotics students, instructors, and researchers
 Can serve as a foundation for:
